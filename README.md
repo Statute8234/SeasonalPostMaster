@@ -1,4 +1,4 @@
-# Holiday_reddit_bot
+# SeasonalPostMaster
 
 The Python script uses the PRAW library to automatically post about holidays on a specific subreddit, ensuring the current date matches any holiday in the predefined dictionary.
 
